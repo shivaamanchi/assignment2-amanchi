@@ -13,3 +13,8 @@ Taj Mahal is the symbol of **love** and Agra is also known for its **white marbl
     2. chicago to delhi
 3. Arrived at delhi international airport
 4. take a ride from delhi airport to tajmahal.
+
+* Taj mahal
+* symbol of love
+* White marble
+
