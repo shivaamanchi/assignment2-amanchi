@@ -5,6 +5,7 @@
 
 Its also known for the Taj Mahal.
 Taj Mahal is the symbol of **love** and Agra is also known for its **white marble** sculputures.
+
 ---
  Travel to Taj Mahal from maryville on Airbus
  1. drive from maryville to kansas city airport
@@ -19,3 +20,23 @@ Taj Mahal is the symbol of **love** and Agra is also known for its **white marbl
 * White marble
 
 [AboutMe](https://github.com/shivaamanchi/assignment2-amanchi/blob/main/AboutMe.md)
+
+--- 
+| Food | Place | Price |
+| ---| ---| ---: |
+| Biryani | Hyderabad | 12$ |
+| Gulab Jamun | Mumbai | 3$ |
+| Samosa | Hyderabad | 8$ |
+| Chicken Fry | Hyderabad | 18$ |
+
+---
+
+### Quotes written by socrates
+
+> “The only true wisdom is in knowing you know nothing.”
+> ― *Socrates*
+>
+> “The unexamined life is not worth living.”
+> ― *Socrates*
+
+
