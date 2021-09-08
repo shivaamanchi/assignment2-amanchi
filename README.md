@@ -34,9 +34,9 @@ Taj Mahal is the symbol of **love** and Agra is also known for its **white marbl
 ### Quotes written by socrates
 
 > “The only true wisdom is in knowing you know nothing.”
-> ― *Socrates*
+> -*Socrates*
 >
 > “The unexamined life is not worth living.”
-> ― *Socrates*
+> -*Socrates*
 
 
